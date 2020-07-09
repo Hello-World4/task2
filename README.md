@@ -1,2 +1,2 @@
 # task2
-Subarray Algorithm
+Max subarray algorithm.
